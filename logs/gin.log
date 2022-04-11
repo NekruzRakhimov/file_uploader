@@ -1,0 +1,15 @@
+[GIN-debug] GET    /                         --> file_uploader/routes.HealthCheck (6 handlers)
+[GIN-debug] POST   /file/upload              --> file_uploader/pkg/controller.UploadFile (6 handlers)
+[GIN-debug] GET    /file/download            --> file_uploader/pkg/controller.DownloadFile (6 handlers)
+[GIN-debug] Listening and serving HTTP on localhost:3001
+[GIN] 127.0.0.1 - [Mon, 11 Apr 2022 23:30:43 +05] "GET /file/upload HTTP/1.1 404 5.791µs "PostmanRuntime/7.29.0" 
+[GIN-debug] GET    /                         --> file_uploader/routes.HealthCheck (6 handlers)
+[GIN-debug] POST   /file/upload              --> file_uploader/pkg/controller.UploadFile (6 handlers)
+[GIN-debug] GET    /file/download            --> file_uploader/pkg/controller.DownloadFile (6 handlers)
+[GIN-debug] Listening and serving HTTP on localhost:3001
+[GIN-debug] GET    /                         --> file_uploader/routes.HealthCheck (6 handlers)
+[GIN-debug] POST   /file/upload              --> file_uploader/pkg/controller.UploadFile (6 handlers)
+[GIN-debug] GET    /file/download            --> file_uploader/pkg/controller.DownloadFile (6 handlers)
+[GIN-debug] Listening and serving HTTP on localhost:3001
+[GIN] 127.0.0.1 - [Mon, 11 Apr 2022 23:31:36 +05] "POST /file/upload HTTP/1.1 200 8.799167ms "PostmanRuntime/7.29.0" 
+[GIN] 127.0.0.1 - [Mon, 11 Apr 2022 23:31:46 +05] "GET /file/download?file_path=1649701896953147000_%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B02022-04-07%D0%B214.00.46.png HTTP/1.1 200 2.482291ms "PostmanRuntime/7.29.0" 

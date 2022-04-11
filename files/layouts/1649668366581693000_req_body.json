@@ -1,0 +1,1016 @@
+{
+    "total_block_num": "3",
+    "block_num": "1",
+    "req_body": [
+        {
+            "product_name": "3 Желания маргарин Пампушка 55% 180 г ",
+            "product_code": "00000083637",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-03T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания маргарин Пампушка 55% 180 г ",
+            "product_code": "00000083637",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-03T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания маргарин Пампушка 55% 180 г ",
+            "product_code": "00000083637",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-03T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 1167,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 3,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 300,
+            "qnt_total": 2,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-01T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-04T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-04T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-04T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 150,
+            "qnt_total": 1,
+            "date": "2021-01-04T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-04T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-04T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-04T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-04T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-04T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное к чаю 60% 230 гр ",
+            "product_code": "00000083644",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-04T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Станичное 450 г ",
+            "product_code": "00000083648",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Станичное 450 г ",
+            "product_code": "00000083648",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Станичное 450 г ",
+            "product_code": "00000083648",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 1945,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 1945,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания масло сливочное Закрома 82,5% 180 г ",
+            "product_code": "00000083642",
+            "total": 0,
+            "qnt_total": 5,
+            "date": "2021-01-06T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 778,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания майонез Провансаль 67% 380 гр ",
+            "product_code": "00000085039",
+            "total": 0,
+            "qnt_total": 2,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания кетчуп томатный 450 г ",
+            "product_code": "00000089508",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания кетчуп томатный 450 г ",
+            "product_code": "00000089508",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания кетчуп томатный 450 г ",
+            "product_code": "00000089508",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания кетчуп томатный 450 г ",
+            "product_code": "00000089508",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        },
+        {
+            "product_name": "3 Желания кетчуп томатный 450 г ",
+            "product_code": "00000089508",
+            "total": 0,
+            "qnt_total": 1,
+            "date": "2021-01-05T00:00:00",
+            "brand_code": "000000938",
+            "brand_name": "3 Желания",
+            "control": "batch error"
+        }
+    ]
+}
